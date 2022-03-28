@@ -1,0 +1,10 @@
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\bin\Debug\Newtonsoft.Json.xml
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.AssemblyReference.cache
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CopyComplete
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+D:\CSharp\Baitap\FlyweightPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
